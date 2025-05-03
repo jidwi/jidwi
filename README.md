@@ -3,7 +3,7 @@
 - 👀 I’m interested in cybersecurity, reverse engineering, CTFs, and open-source tools.
 - 🌱 I’m currently deepening my skills in Rust, exploit development, and offensive security automation.
 - 💞️ I’m looking to collaborate on red team tools, bug bounty utilities, and low-level security research.
-- 📫 How to reach me: `jidwi@protonmail.com` (or drop a GitHub issue — I’m watching)
+- 📫 How to reach me: `FB: Jidwi Conz/jidwiconz@gmail.com` (or drop a GitHub issue — I’m watching)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I’ve been breaking things (and fixing them) since 2015.
 
